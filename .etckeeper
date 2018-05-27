@@ -267,7 +267,6 @@ maybe chmod 0444 'ca-certificates/extracted/cadir/T-TeleSec_GlobalRoot_Class_3.p
 maybe chmod 0444 'ca-certificates/extracted/cadir/TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem'
 maybe chmod 0444 'ca-certificates/extracted/cadir/TWCA_Global_Root_CA.pem'
 maybe chmod 0444 'ca-certificates/extracted/cadir/TWCA_Root_Certification_Authority.pem'
-maybe chmod 0444 'ca-certificates/extracted/cadir/T__RKTRUST_Elektronik_Sertifika_Hizmet_Sa__lay__c__s___H5.pem'
 maybe chmod 0444 'ca-certificates/extracted/cadir/Taiwan_GRCA.pem'
 maybe chmod 0444 'ca-certificates/extracted/cadir/TeliaSonera_Root_CA_v1.pem'
 maybe chmod 0444 'ca-certificates/extracted/cadir/TrustCor_ECA-1.pem'
