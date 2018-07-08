@@ -25,10 +25,10 @@
                                          %%% line of the file
 
 % from dehyph-exptl:
-\addlanguage{german-x-2017-03-31}{dehypht-x-2017-03-31.tex}{}{2}{2}
-\addlanguage{german-x-latest}{dehypht-x-2017-03-31.tex}{}{2}{2}
-\addlanguage{ngerman-x-2017-03-31}{dehyphn-x-2017-03-31.tex}{}{2}{2}
-\addlanguage{ngerman-x-latest}{dehyphn-x-2017-03-31.tex}{}{2}{2}
+\addlanguage{german-x-2018-03-31}{dehypht-x-2018-03-31.tex}{}{2}{2}
+\addlanguage{german-x-latest}{dehypht-x-2018-03-31.tex}{}{2}{2}
+\addlanguage{ngerman-x-2018-03-31}{dehyphn-x-2018-03-31.tex}{}{2}{2}
+\addlanguage{ngerman-x-latest}{dehyphn-x-2018-03-31.tex}{}{2}{2}
 % from hyphen-afrikaans:
 \addlanguage{afrikaans}{loadhyph-af.tex}{}{1}{2}
 % from hyphen-ancientgreek:
